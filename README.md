@@ -23,11 +23,11 @@ Income: Annual Income of the person
                      0 : Less than or equal to 50K
                      1 : More than 50K
                      
-The program returns: 
-      - cwhether the country that the data is taken from is young or old.
-      - the country's race distribution to identifies minorities
-      - if goverment policy (citizens above 60 should not work more than 25 hours a week) is in place
-      - whether or not higher educated people have better pay in general
+The program returns 
+whether the country that the data is taken from is young or old;
+the country's race distribution to identifies minorities;
+if goverment policy (citizens above 60 should not work more than 25 hours a week) is in place;
+and, whether or not higher educated people have better pay in general
 
 makeSenseOfCensus.csv is the raw data
 
